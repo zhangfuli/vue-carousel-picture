@@ -24,6 +24,15 @@ npm install node-sass sass-loader
 npm install --save vue-carousel-picture
 
 ```
+### 环境
+``` bash
+
+"webpack": "^3.6.0",
+"vue": "^2.5.2"
+
+```
+
+
 
 ## demo
     <template>
